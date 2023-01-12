@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  ToDo
+
+  Created by weaam  on 19/06/1444 AH.
+  
+*/
+"My habits" = "عاداتي";
+"Add habit" = "أضف عادة ";
+"Done" = "تم";
+"daily" = "يومياً";
+"weekly" = "أسبوعياً";
+"monthy" = "شهرياً";
+"Delete" = "حذف";
+"add new habit" = "إضافة عادة جديدة";
